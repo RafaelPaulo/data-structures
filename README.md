@@ -6,7 +6,7 @@ Implementing Data Structures with JavaScript
 
 - [Set](./lib/Set)
 
-## Comming Soon
+## Coming Soon
 
 - Dictionaries
 - Hash Tables
