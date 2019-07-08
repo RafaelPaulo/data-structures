@@ -1,0 +1,15 @@
+{
+    "extends": "standard",
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "rules": {
+        "indent": ["error", 4],
+        "comma-dangle": ["error", {
+            "objects": "always",
+            "imports": "always",
+            "exports": "always"
+          }]
+    }
+}
