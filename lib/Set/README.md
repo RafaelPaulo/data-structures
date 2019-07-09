@@ -2,14 +2,15 @@
 
 ## Definition
 
-A set is nothing more than an unordered collection of elements with absolutely no duplicates.
+A set is nothing more than an unordered collection of elements with absolutely no duplicates stored in a `[key, key]` fashion.
+
+_key words_: **unique values**, **unordered**, **`[key, key]`**
 
 ## When should I use it?
 
 Basic operations are pretty time-efficient. To add, remove, find, and determine the length of a set are all **constant time** operations (`O(1)`).
 
-In the other hand, the amount of time it takes to run the complex operations (`intersection`, `difference`, `union`, etc) depends on the length of the sets. In order to find the result to those operations, traverse through the entire sets is required (`O(length(SetX)+length(SetY))`).  
-
+In the other hand, the amount of time it takes to run the complex operations (`intersection`, `difference`, `union`, etc) depends on the length of the sets. In order to find the result to those operations, traverse through the entire sets is required (`O(length(SetX)+length(SetY))`).
 
 ## Implementation
 
@@ -42,3 +43,8 @@ In the other hand, the amount of time it takes to run the complex operations (`i
     - keys for each element will always be unique
     - order doesn't matter
     - they provide a quick `O(1)` access time
+
+## Related Data Structures
+
+- [Dictionary](../Dictionary)
+- [HashTable](../HashTable)
