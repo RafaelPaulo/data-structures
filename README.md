@@ -5,10 +5,10 @@ Implementing Data Structures with JavaScript
 ## Available Data Structures
 
 - [Set](./lib/Set)
+- [Dictionaries](./lib/Dictionary)
 
 ## Coming Soon
 
-- Dictionaries
 - Hash Tables
 - Stack
 - Queue
