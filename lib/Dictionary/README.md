@@ -27,3 +27,8 @@ _key words_: **unique keys**, **unordered**, **`[key, value]`**
 - `size`
 - `keys`
 - `values`
+
+## Related Data Structures
+
+- [Set](../Set)
+- [HashTable](../HashTable)
