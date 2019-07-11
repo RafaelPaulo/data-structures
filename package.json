@@ -23,7 +23,7 @@
   },
   "ava": {
     "files": [
-      "test/lib/*.test.js"
+      "lib/**/*.test.js"
     ]
   },
   "dependencies": {}
