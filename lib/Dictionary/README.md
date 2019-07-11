@@ -21,7 +21,7 @@ _key words_: **unique keys**, **unordered**, **`[key, value]`**
 
 - `set`
 - `delete`
-- `has`
+- `hasKey`
 - `get`
 - `clear`
 - `size`
