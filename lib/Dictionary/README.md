@@ -20,10 +20,10 @@ _key words_: **unique keys**, **unordered**, **`[key, value]`**
 ### Methods implemented:
 
 - `set`
-- `delete`
-- `has`
-- `get`
-- `clear`
+- `hasKey`
+- `get`: get element by key
+- `clear`: remove *all* elements from the Dictionary.
+- `delete`: remove *an* element from the Dictionary.
 - `size`
 - `keys`
 - `values`
