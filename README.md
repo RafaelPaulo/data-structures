@@ -6,10 +6,10 @@ Implementing Data Structures with JavaScript
 
 - [Set](./lib/Set)
 - [Dictionary](./lib/Dictionary)
+- [Hash Table](./lib/HashTable)
 
 ## Coming Soon
 
-- Hash Table
 - Stack
 - Queue
 - Linked List
